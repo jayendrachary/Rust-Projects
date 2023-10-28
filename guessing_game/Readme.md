@@ -4,13 +4,16 @@ This is a simple command-line game written in Rust. The goal is to guess a rando
 
 ## How to play
 
-To play the game, you need to have Rust installed on your system. You can download Rust from https://www.rust-lang.org/tools/install. Then, follow these steps:
+To play the game, you need to have Rust installed on your system. You can download Rust from https://www.rust-lang.org/tools/install . Then, follow these steps:
 
 - Clone this repository or download the source code as a zip file.
 - Navigate to the directory where the code is located and run `cargo build` to compile the code.
 - Run `cargo run` to start the game.
 - Enter your guess and press enter. The game will tell you if your guess is too high, too low, or correct.
 - Repeat until you guess the correct number .
+
+## Resource 
+- For refernce or detailed explanation you can visit the offical rust documentation https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html .
 
 ## Features
 
